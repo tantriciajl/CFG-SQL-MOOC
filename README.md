@@ -1,2 +1,2 @@
 # CFG-SQL-MOOC
-A group project completed as part of the Code First Girls (CFG) MOOC Challenge that was awarded as the winning project
+This was a collaborative project split amongst four people, each of us having varying degrees of experience with using SQL, some more experiences than others. I was tasked with completing the slides in the 'FINAL RACE:GO!' section of the powerpoint. I came up with the objectives, extracted the relevant data, compiled the data into graphs and then presented my findings to the panel of judges.
